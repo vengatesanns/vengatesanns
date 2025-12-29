@@ -14,8 +14,8 @@ I'm a passionate developer who thrives on building scalable web applications, en
 
 - **Languages:** Java, Python, Typescript, JavaScript   
 - **Frontend:** Angular, React.js, HTML, CSS, SASS  
-- **Backend:** Spring, Spring Boot, Fast API
-- **Databases:** MySQL, MS-SQL, PostgreSQL, MongoDB, Cassandra  
+- **Backend:** Spring, Spring Boot, Fast API, Microservices
+- **Databases:** MySQL, MS-SQL, PostgreSQL, MongoDB, Cassandra
 - **DevOps:** Docker, Jenkins
 - **Data Engineering:** Apache Haoop, Apache Spark, Apache Hive, Apache Airflow, Pandas, Big Query, GCP
 - **AI:** GEN AI, Spring AI, Langchain
