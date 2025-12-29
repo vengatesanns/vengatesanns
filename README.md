@@ -23,18 +23,10 @@ I'm a passionate developer who thrives on building scalable web applications, en
 
 ---
 
-### 📈 GitHub Stats
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vengatesanns&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=vengatesanns&theme=radical&column=4)
-
----
-
 ### 🌐 Let's Connect
 
 - 🌍 [Portfolio Website](https://vengatesanns.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vengatesan-nagarajan/)
-- 🐦 [Twitter](https://x.com/vengatesanns)
 
 ---
 
