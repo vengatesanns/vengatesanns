@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Vengat
 
-🚀 Fullstack Developer | 📊 Data Engineer | 🤖 AI Enthusiast  
-🏍️ Motorbike Rider | 🎯 Lifelong Learner
+🚀 Fullstack Developer | 📊 Data Engineer | 🤖 AI Enthusiast | 🏍️ Motorbike Rider | 🎯 Lifelong Learner
 
 ---
 
