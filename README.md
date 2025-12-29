@@ -25,9 +25,8 @@ I'm a passionate developer who thrives on building scalable web applications, en
 
 ### 📈 GitHub Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vengatesanns&theme=react-dark)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vengatesanns&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vengatesanns&layout=compact)
+![Trophies](https://github-profile-trophy.vercel.app/?username=vengatesanns&theme=radical&column=4)
 
 ---
 
