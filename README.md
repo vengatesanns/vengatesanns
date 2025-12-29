@@ -27,6 +27,7 @@ I'm a passionate developer who thrives on building scalable web applications, en
 
 - 🌍 [Portfolio Website](https://vengatesanns.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vengatesan-nagarajan/)
+- ▶️ [YouTube – Vengat X](https://www.youtube.com/@VengatX)
 
 ---
 
